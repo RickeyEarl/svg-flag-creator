@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 350 200"
+   height="200"
+   width="350"
+   preserveAspectRatio="xMid meet"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sound-wave-bar.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.0257143"
+     inkscape:cx="86.310747"
+     inkscape:cy="100.35051"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="175"
+     height="200"
+     x="175"
+     y="0"
+     fill="#144f0b"
+     id="rect4" />
+  <rect
+     width="175"
+     height="200"
+     x="0"
+     y="0"
+     fill="#294ba7"
+     id="rect6" />
+  <path
+     d="M 157.94959,162.37036 140.8437,94.298152 128.83605,131.46995 c -1.62275,5.02312 -8.61594,5.41205 -10.77498,0.58253 l -11.54474,-25.82181 -7.426038,10.33115 c -1.085879,1.51063 -2.832299,2.40638 -4.692559,2.40638 h -38.4455 v -11.55803 h 35.48259 L 102.99749,91.323692 c 2.58957,-3.60553 8.1461,-3.06172 9.96822,1.01364 l 9.50071,21.250028 13.5726,-42.016348 c 1.77358,-5.49007 9.68968,-5.2618 11.10381,0.36812 l 15.19939,60.487248 15.34965,-94.329758 c 1.01133,-6.21995 9.93818,-6.55282 11.34132,-0.34443 l 17.8092,78.894578 12.20239,-31.183578 c 1.87992,-4.80468 8.65177,-4.92777 10.69234,-0.17337 l 14.68969,34.225078 7.11859,-9.73707 c 1.08819,-1.4881 2.82132,-2.36824 4.66483,-2.36824 h 37.83754 v 11.55803 h -34.90296 l -11.36733,15.54672 c -2.6439,3.61593 -8.21487,2.96926 -9.97574,-1.13153 l -13.12819,-30.58719 -13.9361,35.61493 c -2.07583,5.30109 -9.77001,4.69834 -11.01886,-0.83333 L 184.31751,69.348402 169.25855,161.89012 c -1.00497,6.17431 -9.77637,6.58173 -11.30896,0.48024 z"
+     id="sound-wave-2-icon"
+     inkscape:connector-curvature="0" />
+</svg>

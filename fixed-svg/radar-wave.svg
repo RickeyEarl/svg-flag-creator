@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 350 200"
+   height="200"
+   width="350"
+   preserveAspectRatio="xMid meet"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="radar-antenna.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.0257143"
+     inkscape:cx="86.310747"
+     inkscape:cy="100.35051"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="175"
+     height="200"
+     x="175"
+     y="0"
+     fill="#144f0b"
+     id="rect4" />
+  <rect
+     width="175"
+     height="200"
+     x="0"
+     y="0"
+     fill="#294ba7"
+     id="rect6" />
+  <path
+     d="m 191.68528,11.98255 c 14.437,0 28.87314,5.5075 39.88772,16.52207 11.01542,11.01458 16.5225,25.45157 16.5225,39.88815 h -11.67727 c 0,-11.44825 -4.36712,-22.89651 -13.10179,-31.63117 -8.73466,-8.73466 -20.18248,-13.10178 -31.63116,-13.10178 V 11.98255 z m 8.6e-4,33.88202 c 5.76557,0 11.53199,2.19958 15.92987,6.59832 4.39874,4.39873 6.59832,10.16431 6.59832,15.92988 h 11.77896 c 0,-8.77953 -3.35065,-17.55991 -10.04937,-24.25864 -6.69787,-6.69873 -15.47783,-10.04809 -24.25821,-10.04809 v 11.77853 z m 8.67869,13.84822 c -4.88283,-4.88368 -12.80227,-4.88454 -17.68595,0 l 17.68595,17.68681 c 4.88539,-4.88497 4.88539,-12.80269 0,-17.68681 z M 124.62069,21.9939 C 86.542889,99.92651 159.6119,171.72311 236.75791,134.12898 L 124.62069,21.9939 z m 1.46468,166.02355 5.33018,-4.80891 c 9.31404,-8.40268 23.47374,-8.40268 32.78778,0 l 5.32976,4.80891 h 24.18087 l -45.90495,-41.41392 -45.90451,41.41392 h 24.18087 z"
+     id="antenna-2-icon"
+     inkscape:connector-curvature="0" />
+</svg>

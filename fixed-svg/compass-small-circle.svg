@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 350 200"
+   height="200"
+   width="350"
+   preserveAspectRatio="xMid meet"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="hand-holding-wrench.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.0257143"
+     inkscape:cx="87.202464"
+     inkscape:cy="100"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="175"
+     height="200"
+     x="175"
+     y="0"
+     fill="#144f0b"
+     id="rect4" />
+  <rect
+     width="175"
+     height="200"
+     x="0"
+     y="0"
+     fill="#294ba7"
+     id="rect6" />
+  <path
+     d="m 201.38455,112.90966 58.23662,-12.90925 -58.23662,-12.90965 c -2.56369,-5.2305 -6.63824,-9.58191 -11.65348,-12.49642 L 175,15.37883 160.26852,74.59434 c -5.01483,2.91451 -9.08897,7.26592 -11.65307,12.49642 l -58.236621,12.90965 58.237031,12.90925 c 2.56369,5.23008 6.63824,9.58191 11.65307,12.496 L 175,184.62117 l 14.73066,-59.2151 c 5.01524,-2.9145 9.08979,-7.26592 11.65389,-12.49641 z M 175,113.14997 c -7.26263,0 -13.15038,-5.88692 -13.15038,-13.14997 0,-7.26181 5.88775,-13.14914 13.15038,-13.14914 7.26222,0 13.14914,5.88733 13.14914,13.14914 0,7.26305 -5.88692,13.14997 -13.14914,13.14997 z M 118.04461,81.24532 c 5.80518,-17.69075 19.76767,-31.826184 37.2974,-37.893853 l -3.78125,15.199363 c -7.97986,4.52271 -14.52321,11.28255 -18.78097,19.42795 l -14.73518,3.26654 z m 76.61297,-37.893853 c 17.48701,6.052059 31.47907,20.160383 37.29863,37.893853 L 217.22103,77.97919 C 212.96369,69.83297 206.41951,63.07313 198.43842,58.55042 L 194.65758,43.351467 z M 155.34201,156.64771 c -17.48619,-6.05247 -31.47784,-20.15914 -37.29699,-37.89221 l 14.73518,3.26655 c 4.25694,8.14499 10.80111,14.90441 18.78097,19.42671 l 3.78084,15.19895 z m 76.6142,-37.89221 c -5.80518,17.68952 -19.7689,31.82578 -37.29863,37.89221 l 3.78084,-15.19854 c 7.98068,-4.5223 14.52444,-11.28213 18.7822,-19.42754 l 14.73559,-3.26613 z"
+     id="compass-icon"
+     inkscape:connector-curvature="0" />
+</svg>

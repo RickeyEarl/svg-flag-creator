@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 350 200"
+   height="200"
+   width="350"
+   preserveAspectRatio="xMid meet"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sound-wave-line.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.0257143"
+     inkscape:cx="86.310747"
+     inkscape:cy="100.35051"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="175"
+     height="200"
+     x="175"
+     y="0"
+     fill="#144f0b"
+     id="rect4" />
+  <rect
+     width="175"
+     height="200"
+     x="0"
+     y="0"
+     fill="#294ba7"
+     id="rect6" />
+  <path
+     d="M 133.93602,23.978765 C 99.064781,95.348675 165.98044,161.09819 236.62927,126.6709 L 133.93602,23.978765 z m 69.05717,50.40687 18.13402,-29.10211 c 1.0702,-1.71564 3.05487,-2.63897 5.05541,-2.35149 3.14676,0.45244 6.44667,-0.71297 8.5952,-3.36228 3.25341,-4.00772 2.64155,-9.89457 -1.36691,-13.14687 -4.00846,-3.25231 -9.89568,-2.63971 -13.14761,1.36875 -1.71122,2.10682 -2.35113,4.73324 -1.99205,7.22349 0.28895,2.00202 -0.63438,3.98743 -2.35113,5.05689 l -29.10469,18.13586 16.17776,16.17776 z m -67.71684,101.635595 4.88123,-4.40407 c 8.52988,-7.69511 21.49703,-7.69511 30.02691,3.7e-4 l 4.88123,4.4037 h 22.14469 l -42.039,-37.92611 -42.03938,37.92611 h 22.14432 z"
+     id="antenna-icon"
+     inkscape:connector-curvature="0" />
+</svg>

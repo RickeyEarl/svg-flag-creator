@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="police-badge-3-icon" d="M402.08,213.902c-16.441-44.662-7.115-58.831,10.197-76.858l14.729-15.335
+	c-82.467-69.78-65.594-55.32-84.092-71.709c-9.35,9.556-20.697,24.521-41.928,24.521c-21.828,0-36.061-15.818-44.781-23.688
+	c-9.654,8.445-24.004,23.688-45.189,23.688c-21.521,0-33.275-15.68-41.629-24.223l-84.393,71.41l14.729,15.335
+	c17.312,18.027,26.639,32.196,10.197,76.858c-14.594,39.647-27.193,68.512-27.193,99.858c0,56.057,35.885,97.338,98.453,113.252
+	C226.166,438.455,232.967,443.344,256,462c23.033-18.656,29.828-23.544,74.822-34.987c62.568-15.914,98.451-57.195,98.451-113.252
+	C429.273,282.421,416.678,253.562,402.08,213.902z M300.095,270.206l10.237,59.703l-53.615-28.186l-53.618,28.186l10.241-59.703
+	l-43.376-42.285l59.944-8.71l26.809-54.32l26.812,54.32l59.946,8.71L300.095,270.206z"/>
+</svg>

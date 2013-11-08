@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 350 200"
+   height="200"
+   width="350"
+   preserveAspectRatio="xMid meet"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="shield-checked.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.0257143"
+     inkscape:cx="86.310747"
+     inkscape:cy="100.35051"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="175"
+     height="200"
+     x="175"
+     y="0"
+     fill="#144f0b"
+     id="rect4" />
+  <rect
+     width="175"
+     height="200"
+     x="0"
+     y="0"
+     fill="#294ba7"
+     id="rect6" />
+  <path
+     d="m 225.73642,85.37854 c -5.71028,-15.51197 -2.47118,-20.43314 3.54162,-26.69427 l 5.11567,-5.32614 C 205.75131,29.12218 211.61163,34.14442 205.18692,28.4522 c -3.24744,3.31898 -7.18847,8.51662 -14.56241,8.51662 -7.58129,0 -12.52468,-5.4939 -15.55331,-8.2273 -3.35302,2.93311 -8.33705,8.2273 -15.69502,8.2273 -7.47466,0 -11.55705,-5.44597 -14.45856,-8.41312 l -29.31133,24.80208 5.11567,5.32614 c 6.0128,6.26113 9.25224,11.1823 3.54162,26.69428 -5.06878,13.77017 -9.44466,23.79555 -9.44466,34.68262 0,19.46969 12.46356,33.80738 34.19464,39.33462 15.62451,3.97472 17.98663,5.67277 25.98644,12.15236 7.99981,-6.47959 10.35984,-8.17729 25.98713,-12.15166 21.73108,-5.52724 34.19395,-19.86494 34.19395,-39.33462 0,-10.88499 -4.37449,-20.90828 -9.44466,-34.68298 z m -35.42137,19.55548 3.55551,20.73601 -18.62153,-9.78954 -18.62258,9.78954 3.5569,-20.73601 -15.06533,-14.6864 20.81972,-3.02515 9.31129,-18.8664 9.31233,18.8664 20.82041,3.02515 -15.06672,14.6864 z"
+     id="police-badge-3-icon"
+     inkscape:connector-curvature="0" />
+</svg>

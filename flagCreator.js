@@ -799,7 +799,7 @@ var icons =
                         	"name": "star-1",
                             "type": "path",
                             "ID": "star-2-outline",
-                            "d": "M256,128.858l42.98,88.667l97.61,13.478l-71.047,68.278l17.346,96.996L256,349.809l-86.89,46.469l17.346-96.996l-71.047-68.278l97.61-13.478L256,128.858z M256,60.082l-62.978,129.92L49.999,209.75L154.1,309.793l-25.415,142.125L256,383.828l127.315,68.09L357.9,309.793L462.001,209.75l-143.023-19.748L256,60.082z"
+                            "d": "m 175,36.429001 21.49,44.3335 48.805,6.739 -35.5235,34.138999 8.673,48.498 -43.4445,-23.234 -43.445,23.2345 8.673,-48.498 -35.5235,-34.138999 48.805,-6.739 L 175,36.429001 z M 175,2.0410011 143.511,67.001001 71.9995,76.875001 124.05,126.8965 111.3425,197.959 175,163.914 238.6575,197.959 225.95,126.8965 278.0005,76.875001 206.489,67.001001 "
                         }
                     ]
                 }
@@ -988,7 +988,7 @@ function generateSVG(){
 function generateIconSVG(){
 	iconObject = icons.categories[selectedIcon.iconCategory].subCategories[selectedIcon.iconSubcategory].elements[selectedIcon.iconElement];
 	element = new Array();
-	element.push("<svg width = '" + previewWindowInfo.width + "' height = '" + previewWindowInfo.height + "' x='0' y='0' viewBox = '15 0 500 500'>") //opening group
+	//element.push("<svg width = '" + previewWindowInfo.width + "' height = '" + previewWindowInfo.height + "' x='0' y='0' viewBox = '15 0 500 500'>") //opening group
 	element.push("<");
 	element.push(iconObject.type + " ")
 	for(var key in iconObject){
@@ -1008,7 +1008,7 @@ function generateIconSVG(){
 		}
 	}
 	element.push("class='flag-icon' />");
-	element.push("</g>") //closing the icon/group
+	//element.push("</g>") //closing the icon/group
 	sendString = compileArray(element);
 	return sendString;
 }

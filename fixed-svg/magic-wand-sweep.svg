@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 350 200"
+   height="200"
+   width="350"
+   preserveAspectRatio="xMid meet"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="magic-hat-bunny.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="1.0257143"
+     inkscape:cx="87.202464"
+     inkscape:cy="100"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="175"
+     height="200"
+     x="175"
+     y="0"
+     fill="#144f0b"
+     id="rect4" />
+  <rect
+     width="175"
+     height="200"
+     x="0"
+     y="0"
+     fill="#294ba7"
+     id="rect6" />
+  <path
+     d="m 112.09787,102.82345 c -3.23065,10.57671 -11.50827,18.8535 -22.08456,22.08456 10.57629,3.23064 18.85391,11.50826 22.08456,22.08414 3.23064,-10.57588 11.50785,-18.8535 22.08455,-22.08414 -10.5767,-3.23065 -18.85391,-11.50785 -22.08455,-22.08456 l 0,0 z m 57.09707,-42.02363 c -2.1844,7.15271 -7.78286,12.74993 -14.93474,14.93474 7.15188,2.18482 12.75034,7.78245 14.93474,14.93475 2.1844,-7.1523 7.78245,-12.74993 14.93475,-14.93475 -7.1523,-2.1844 -12.74993,-7.78203 -14.93475,-14.93474 l 0,0 z M 101.95009,14.9274 c -1.79066,5.86219 -6.378068,10.44919 -12.239433,12.23985 5.861365,1.79025 10.448773,6.37848 12.239433,12.23943 1.79025,-5.86136 6.37848,-10.44918 12.23985,-12.23943 -5.86137,-1.79025 -10.4496,-6.37766 -12.23985,-12.23985 l 0,0 z M 89.710657,65.44271 209.3418,185.0726 227.50428,166.91011 107.87232,47.27897 89.710657,65.44271 z m 41.390583,16.78295 -6.44514,6.44473 -23.22851,-23.22851 6.44556,-6.44514 23.22809,23.22892 z M 260.28934,43.3478 C 227.50428,25.47554 171.9772,34.81307 146.46657,69.15528 c -5.03621,-5.07141 -7.19494,-7.20116 -11.73101,-11.79974 9.316,-12.0759 23.80691,-22.42655 38.43569,-26.08364 -15.31896,0.0692 -32.63891,8.55668 -44.50779,19.94239 -2.74292,-2.76818 -3.48858,-3.41944 -5.27221,-5.16829 25.35247,-24.71072 88.0774,-40.65072 136.89809,-2.6982 z"
+     id="magic-5-icon"
+     inkscape:connector-curvature="0" />
+</svg>

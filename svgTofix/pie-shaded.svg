@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+
+<path id="pie_chart_2_icon" d="M273.904,135.949v-28.634l47.562-47.561c7.025,2.334,13.884,5.034,20.552,8.08
+
+	L273.904,135.949z M395.06,102.827L273.904,223.982v14.104h14.528l120.932-120.932C404.832,112.149,400.058,107.366,395.06,102.827z
+
+	 M273.904,77.615l24.132-24.132c-7.89-1.618-15.941-2.794-24.132-3.483V77.615z M458.588,214.299l-23.787,23.787H462
+
+	C461.32,230.015,460.169,222.079,458.588,214.299z M452.347,190.842c-2.325-7.036-5.017-13.903-8.055-20.581l-67.825,67.825h28.635
+
+	L452.347,190.842z M434.115,150.738c-3.516-5.944-7.315-11.702-11.391-17.244L318.133,238.086h28.635L434.115,150.738z
+
+	 M378.741,89.445c-5.534-4.083-11.286-7.886-17.225-11.409l-87.612,87.613v28.633L378.741,89.445z M238.833,273.157V50
+
+	C133.064,58.899,50,147.549,50,255.617C50,369.596,142.396,462,256.373,462C364.441,462,453.091,378.926,462,273.157H238.833z"/>
+
+</svg>
+

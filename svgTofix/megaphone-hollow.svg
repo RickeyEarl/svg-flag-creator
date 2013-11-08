@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="megaphone-2-icon" d="M257.981,357.061l35.982,10.896l-34.893,34.893c-6.345,6.346-15.663,8.693-24.257,6.111
+	l-67.193-19.832c-8.32-2.5-14.683-9.238-16.701-17.689l-11.951-50.045l36.184,10.957l4.942,20.697
+	c1.335,5.592,5.542,10.053,11.046,11.717l36.436,10.639c5.703,1.725,11.891,0.17,16.104-4.043L257.981,357.061z M422,155.916V344.5
+	l-297.55-90.115c-7.092-2.147-14.369-3.545-21.728-4.177c7.358-0.632,14.637-2.03,21.729-4.178L422,155.916 M462,102.008
+	l-349.143,105.74c-14.701,4.452-30.929,3.781-45.737-2.66L50,197.642v105.131l17.121-7.445c14.172-6.164,30.383-7.311,45.735-2.66
+	L462,398.408V102.008z"/>
+</svg>

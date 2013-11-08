@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="wireless-icon" d="M191,336.664c16.635-16.635,39.616-26.924,65-26.924c25.384,0,48.365,10.289,65,26.924l-65,65
+	L191,336.664z M160.999,306.663c24.312-24.312,57.9-39.351,95-39.351c37.101,0,70.688,15.038,95.001,39.351l40-40
+	c-34.55-34.55-82.279-55.919-135.001-55.919c-52.721,0-100.45,21.369-135,55.919L160.999,306.663z M91,236.664
+	c42.227-42.228,100.563-68.345,165-68.345s122.772,26.117,165,68.345l41-41c-52.721-52.72-125.552-85.328-206-85.328
+	s-153.28,32.608-206,85.328L91,236.664z"/>
+</svg>
